@@ -103,3 +103,13 @@ Cloud Administration students should also read:
 Cyber Security students should also read:
 
 - `docs/security/CYBER_SECURITY_MVP_TASKS.md`
+
+## Student Learning Resources
+
+Blaze Diagnostics learning resources are available at:
+
+`docs/training/student-learning-resources.md`
+
+The full internship-wide resource list is maintained in the `internship-training-and-docs` repository under:
+
+`13-resource-index/self-paced-resource-urls.md`
